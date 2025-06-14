@@ -1,0 +1,8 @@
+streamlit
+pandas
+scholarly
+selenium
+webdriver-manager
+beautifulsoup4
+openai
+python-dotenv
